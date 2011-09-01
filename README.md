@@ -1,6 +1,5 @@
-PhoneGap-Start
+OhioMTB-Mobile
 ---
 
-A starting point for PhoneGap apps.
-
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+The mobile optimizied flavor of ohiomtb.com: crowdsourced trail conditions for
+and by Ohio mountain bikers.
